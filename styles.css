@@ -630,14 +630,11 @@ main{
 .customer__card{
     
 }
-
+/* 
 .customer__body{
     background: red;
-}
+} */
 
-
-
-/* 
 .customers > h1{
     font-weight: 600;
     font-size: 60px;
@@ -710,7 +707,7 @@ main{
     height: 20px;
     border-radius: 99%;
     background: red;
-} */
+}
 
 
 /* ========================== FEATURED AGENTS ======================================= */
